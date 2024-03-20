@@ -10,7 +10,12 @@ And of course do the minimal for school :)
 ## Contribution
 Running this project entirely out of my own pocket, I rely on my own earnings and the community's support to keep things going.
 You can contribute by creating extra work for me, with new issues :), as well as doing some of my work by helping solve issues.
-Additionally, I'm always open to fresh project ideas within the Zyfer Organization, so don't hesitate to share your thoughts and suggestions!
+Additionally, I'm always open to fresh project ideas within the Zyfer Organization, so don't hesitate to share your thoughts and suggestions through one of the interaction platforms we use!
+
+Our community is being build on top of the following platforms:
+
+[![Patreon](https://img.shields.io/badge/Community-Patreon-blue?logo=patreon)](https://patreon.com/zyfer_osp?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink)
+
 
 ## Donations
 If you find the information and projects here valuable and would like to support my efforts, any donation, big or small, would be greatly appreciated. 
