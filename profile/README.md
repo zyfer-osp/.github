@@ -1,6 +1,6 @@
-# Welcome to Zyfer's Open Source GitHub Organization 👋
+# Welcome to Zyfer's Open Source Projects GitHub Organization 👋
 
-Thank you for visiting Zyfer's Open Source GitHub organization! Here's some information about Zyfer as an Organization.
+Thank you for visiting Zyfer's Open Source Projects (OSP) GitHub organization! Here's some information about Zyfer as an Organization.
 
 ## About me (Where it all started...)
 I'm Steven, the creator behind Zyfer. At the age of 16, I embarked on this journey driven by a passion for technology and a desire to pursue what I truly love.
