@@ -2,10 +2,9 @@
 
 Thank you for visiting Zyfer's Open Source Projects (OSP) GitHub organization! Here's some information about Zyfer as an Organization.
 
-## About me (Where it all started...)
-I'm Steven, the creator behind Zyfer. At the age of 16, I embarked on this journey driven by a passion for technology and a desire to pursue what I truly love.
+## How it all started (A word about me)
+I'm Steven, the creator behind Zyfer. At the age of 16, I started this journey driven by a passion for technology and a desire to pursue what I truly love.
 Having faced challenges in life, I decided to channel my energy into building applications, both online and physical devices, all while keeping them open source for fellow tech enthusiasts to explore and contribute to.
-And of course do the minimal for school :)
 
 ## Contribution
 Running this project entirely out of my own pocket, I rely on my own earnings and the community's support to keep things going.
