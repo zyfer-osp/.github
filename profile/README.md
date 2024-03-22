@@ -16,6 +16,14 @@ Our community is being build on top of the following platforms:
 
 [![Patreon](https://img.shields.io/badge/Community-Patreon-blue?logo=patreon)](https://patreon.com/zyfer_osp?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink)
 
+## Project ideas
+This section contains a list of new project ideas:
+- Hexagon Lamp
+- Factory simulation game with a hexagon grid
+
+## Projects
+This section lists all the projects that are currently under development or have been completed:
+- None yet :)
 
 ## Donations
 If you find the information and projects here valuable and would like to support my efforts, any donation, big or small, would be greatly appreciated. 
