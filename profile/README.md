@@ -19,6 +19,7 @@ Our community is being build on top of the following platforms:
 This section contains a list of new project ideas:
 - Hexagon Lamp
 - Factory simulation game with a hexagon grid
+- RC Model Airplane
 
 ## Projects
 This section lists all the projects that are currently under development or have been completed:
