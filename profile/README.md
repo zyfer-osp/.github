@@ -13,7 +13,7 @@ Additionally, I'm always open to fresh project ideas within the Zyfer Organizati
 
 Our community is being build on top of the following platforms:
 
-[![Patreon](https://img.shields.io/badge/Community-Patreon-blue?logo=patreon)](https://patreon.com/zyfer_osp?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink)
+[![Patreon](https://img.shields.io/badge/Patreon-blue?logo=patreon)](https://patreon.com/zyfer_osp?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink)
 
 ## Project ideas
 This section contains a list of new project ideas:
@@ -28,6 +28,6 @@ This section lists all the projects that are currently under development or have
 If you find the information and projects here valuable and would like to support my efforts, any donation, big or small, would be greatly appreciated. 
 Your generosity helps fuel the continuation of this open source initiative. Feel free to contribute via the following options:
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green?logo=paypal)](https://www.paypal.com/paypalme/steventevoortwis)
+[![Donate](https://img.shields.io/badge/PayPal-green?logo=paypal)](https://www.paypal.com/paypalme/steventevoortwis)
 
 Your support means the world to me and contributes to the growth and sustainability of Zyfer's Open Source GitHub Organization. Thank you for being a part of this journey! 🌟
